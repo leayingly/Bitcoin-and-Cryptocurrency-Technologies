@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a test message2
+=======
+This is a test message1
+>>>>>>> d014c3383f3729355097b9c9a326fef5e1d1422a
